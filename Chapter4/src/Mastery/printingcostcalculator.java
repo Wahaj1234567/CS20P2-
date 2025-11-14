@@ -24,7 +24,7 @@ public class Printing {
         } else {
             price = 0.25;
         }
-
+//
         double total = copies * price;
 
         System.out.println("Price per copy is: $" + price);
